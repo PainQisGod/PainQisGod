@@ -1,52 +1,60 @@
 <p align="center">
-  <img src="assets/night-city.svg" width="100%" alt="Animated Cyberpunk-inspired Night City skyline with neon yellow and cyan lights" />
+  <img src="assets/night-city.svg" alt="Animated Night City skyline — PainQ profile banner" width="100%" />
 </p>
 
-<h1 align="center">PAINQ // NIGHT CITY NETRUNNER</h1>
+<h1 align="center">PAINQ // IS GOD</h1>
 
 <p align="center">
-  <samp>SOFTWARE DEVELOPMENT STUDENT · CODE / CREATE / REPEAT</samp>
+  <samp>SOFTWARE DEVELOPMENT STUDENT · EAT / SLEEP / REPEAT</samp>
 </p>
 
 <p align="center">
-  <a href="https://github.com/PainQisGod"><img src="https://img.shields.io/badge/GITHUB-PainQisGod-FCEE0A?style=for-the-badge&logo=github&logoColor=101014" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge" alt="Status online" />
-  <img src="https://img.shields.io/badge/LOCATION-NIGHT%20CITY-FCEE0A?style=for-the-badge" alt="Night City" />
+  <a href="https://github.com/PainQisGod">
+    <img src="https://img.shields.io/badge/GITHUB-PainQisGod-FCEE0A?style=for-the-badge&logo=github&logoColor=101014" alt="GitHub: PainQisGod" />
+  </a>
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge" alt="System online" />
+  <img src="https://img.shields.io/badge/DISTRICT-NIGHT_CITY-FCEE0A?style=for-the-badge" alt="Night City" />
 </p>
 
 ---
 
-### `01 // ABOUT ME`
+### `01 // ABOUT THE NETRUNNER`
 
 ```text
-Handle      : PainQ
-Class       : Software Development student
-Interests   : Programming, web development, games & technology
-Currently   : Learning, experimenting, and building projects
-Philosophy  : Jack of all trades, master of none.
+HANDLE       : PainQ
+ROLE         : Software Development student
+INTERESTS    : Programming, web development, games & technology
+CURRENTLY    : Learning, experimenting, and building projects
+PHILOSOPHY   : Jack of all trades, master of none.
 ```
 
-### `02 // SELECTED PROJECTS`
+### `02 // SELECTED BUILDS`
 
-| PROJECT | DESCRIPTION |
+| PROJECT | TRANSMISSION |
 |:--|:--|
-| [Jongrai](https://github.com/PainQisGod/jongrai) | ML:BB Project (Ongoing) |
-| [Bayonette](https://github.com/PainQisGod/bayonette) | E-commerce-style web project (Ongoing) |
-| [Paygone World Cup](https://github.com/PainQisGod/paygone-worldcup) | World Cup-related project (Finished) |
+| [Jongrai](https://github.com/PainQisGod/jongrai) | MLBB project |
+| [Bayonette](https://github.com/PainQisGod/bayonette) | E-commerce-style web project |
+| [Paygone World Cup](https://github.com/PainQisGod/paygone-worldcup) | World Cup-themed project |
 
-### `03 // TECH I WORK WITH`
+### `03 // TECH TOOLKIT`
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=101014" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### `04 // GITHUB SIGNAL`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PainQisGod&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FCEE0A&text_color=C9D1D9&icon_color=00E5FF&ring_color=FCEE0A" alt="PainQ's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PainQisGod&layout=compact&hide_border=true&bg_color=0D1117&title_color=FCEE0A&text_color=C9D1D9" alt="Most used languages" />
 </p>
 
 ---
 
 <p align="center">
-  <samp>「 Wish we could go to the moon together. 」</samp><br />
-  <sub>Ah Poy</sub>
+  <samp>「 Wish we could go to the moon together 」</samp><br />
+  <sub>SERK TOV AH POY</sub>
 </p>
