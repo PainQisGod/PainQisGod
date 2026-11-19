@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">PainQ // Night City</title>
+<desc id="desc">A looping cyberpunk cityscape with neon signs, rain, glowing windows, and a flying vehicle.</desc>
+<defs>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#080b17"/><stop offset=".58" stop-color="#17152a"/><stop offset="1" stop-color="#080a10"/></linearGradient>
+  <linearGradient id="haze" x2="1"><stop stop-color="#00f0ff" stop-opacity="0"/><stop offset=".5" stop-color="#00f0ff" stop-opacity=".22"/><stop offset="1" stop-color="#fcee0a" stop-opacity="0"/></linearGradient>
+  <linearGradient id="tower" x2="0" y2="1"><stop stop-color="#25283b"/><stop offset="1" stop-color="#090c15"/></linearGradient>
+  <filter id="glowY"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="glowC"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="windows" width="26" height="30" patternUnits="userSpaceOnUse"><rect x="5" y="6" width="8" height="12" fill="#fcee0a" opacity=".65"/><rect x="17" y="6" width="4" height="12" fill="#00f0ff" opacity=".4"/></pattern>
+  <clipPath id="frame"><rect width="1200" height="420" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="420" fill="url(#sky)"/>
+  <circle cx="910" cy="94" r="54" fill="#fcee0a" opacity=".07"/><circle cx="910" cy="94" r="35" fill="none" stroke="#fcee0a" opacity=".45"/>
+  <path d="M0 230 Q230 190 430 232 T850 215 T1200 220 V330 H0Z" fill="url(#haze)" opacity=".7"/>
+  <!-- distant skyline -->
+  <g fill="#111626" stroke="#34334b" stroke-width="2">
+    <path d="M0 290V205h70v-35h30v120zM94 290V220h90v-45h28v115zM215 290V190h58v-35h24v135zM304 290V215h86v-65h25v140zM870 290V210h65v-60h25v140zM970 290V195h90v-35h24v130zM1090 290V220h110v70z"/>
+  </g>
+  <!-- main towers -->
+  <g>
+    <path d="M50 420V255l38-28 40 28v165z" fill="url(#tower)" stroke="#00f0ff" stroke-opacity=".6" stroke-width="2"/>
+    <path d="M62 270h52v150H62z" fill="url(#windows)" opacity=".5"/>
+    <path d="M175 420V180h105v240z" fill="url(#tower)" stroke="#4b3e62" stroke-width="2"/>
+    <path d="M191 195h72v225h-72z" fill="url(#windows)" opacity=".58"/>
+    <path d="M195 180l32-45 32 45" fill="#151a2b" stroke="#fcee0a" stroke-width="2"/>
+    <path d="M355 420V230h125v190z" fill="url(#tower)" stroke="#00f0ff" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M370 245h95v175h-95z" fill="url(#windows)" opacity=".55"/>
+    <path d="M500 420V115h150v305z" fill="url(#tower)" stroke="#5a4b70" stroke-width="2"/>
+    <path d="M515 130h120v290H515z" fill="url(#windows)" opacity=".45"/>
+    <path d="M545 115l30-75 30 75" fill="#151a2b" stroke="#fcee0a" stroke-width="3"/>
+    <path d="M740 420V205h120v215z" fill="url(#tower)" stroke="#00f0ff" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M755 220h90v200h-90z" fill="url(#windows)" opacity=".5"/>
+    <path d="M920 420V155h130v265z" fill="url(#tower)" stroke="#fcee0a" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M935 170h100v250H935z" fill="url(#windows)" opacity=".5"/>
+    <path d="M1080 420V250h120v170z" fill="url(#tower)" stroke="#00f0ff" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M1095 265h90v155h-90z" fill="url(#windows)" opacity=".5"/>
+  </g>
+  <!-- neon signage -->
+  <g font-family="monospace" font-weight="bold" letter-spacing="4">
+    <g filter="url(#glowY)"><rect x="205" y="245" width="62" height="34" fill="#fcee0a" opacity=".12" stroke="#fcee0a"/><text x="236" y="268" text-anchor="middle" font-size="15" fill="#fcee0a">NCPD</text></g>
+    <g filter="url(#glowC)"><rect x="760" y="260" width="82" height="42" fill="#00f0ff" opacity=".1" stroke="#00f0ff"/><text x="801" y="287" text-anchor="middle" font-size="17" fill="#00f0ff">NIGHT</text></g>
+    <g filter="url(#glowY)"><text x="1000" y="215" text-anchor="middle" font-size="18" fill="#fcee0a">ARASAKA</text></g>
+  </g>
+  <!-- elevated road -->
+  <path d="M0 345 Q270 315 520 350 T1200 338" fill="none" stroke="#00f0ff" stroke-opacity=".45" stroke-width="4"/>
+  <path d="M0 352 Q270 322 520 357 T1200 345" fill="none" stroke="#fcee0a" stroke-opacity=".4" stroke-width="2"/>
+  <!-- flying car -->
+  <g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-220 0;1450 -30" dur="18s" repeatCount="indefinite"/>
+      <path d="M0 190l28-16 78 0 25 16-12 12H12z" fill="#171b2c" stroke="#00f0ff" stroke-width="2"/>
+      <path d="M37 174l17-16h35l17 16z" fill="#00f0ff" opacity=".5"/>
+      <path d="M-5 196h-85" stroke="#00f0ff" stroke-width="3" opacity=".8"><animate attributeName="opacity" values=".2;1;.2" dur=".7s" repeatCount="indefinite"/></path>
+      <path d="M15 204h82" stroke="#fcee0a" stroke-width="2" opacity=".8"/>
+    </g>
+  </g>
+  <!-- rain -->
+  <g stroke="#9beeff" stroke-width="1" opacity=".32">
+    <path d="M90 20l-18 52M190 80l-18 52M330 12l-18 52M430 72l-18 52M680 20l-18 52M790 65l-18 52M1040 18l-18 52M1140 75l-18 52">
+      <animateTransform attributeName="transform" type="translate" values="0 -90;0 420" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M140 130l-18 52M270 150l-18 52M560 110l-18 52M720 165l-18 52M970 125l-18 52M1100 180l-18 52">
+      <animateTransform attributeName="transform" type="translate" values="0 -100;0 430" dur="2.3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <!-- foreground silhouette -->
+  <path d="M0 385l70-18 85 12 85-20 100 15 100-18 110 22 90-15 100 17 90-19 100 18 80-16 110 18v29H0z" fill="#070910"/>
+  <path d="M0 389h1200" stroke="#fcee0a" stroke-opacity=".55" stroke-width="2"/>
+  <g font-family="monospace" font-weight="bold">
+    <text x="34" y="48" font-size="15" fill="#00f0ff" letter-spacing="3">NIGHT CITY // 2077</text>
+    <text x="1165" y="48" text-anchor="end" font-size="13" fill="#fcee0a" letter-spacing="2">PAINQ_OS v2.077</text>
+    <text x="36" y="402" font-size="12" fill="#8a91a8" letter-spacing="2">NO FUTURE WITHOUT CODE_</text>
+    <text x="1165" y="402" text-anchor="end" font-size="12" fill="#8a91a8" letter-spacing="2">[ SYSTEM ONLINE ]</text>
+  </g>
+  <rect x="10" y="10" width="1180" height="400" rx="10" fill="none" stroke="#00f0ff" stroke-opacity=".35"/>
+  <path d="M0 0h1200v420H0z" fill="none" stroke="#fcee0a" stroke-opacity=".12" stroke-width="12"/>
+</g>
+</svg>
