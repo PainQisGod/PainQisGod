@@ -18,7 +18,7 @@
 
 ---
 
-### `01 // ABOUT THE NETRUNNER`
+### `01 // ABOUT ME`
 
 ```text
 HANDLE       : PainQ
@@ -28,7 +28,7 @@ CURRENTLY    : Learning, experimenting, and building projects
 PHILOSOPHY   : Jack of all trades, master of none.
 ```
 
-### `02 // SELECTED BUILDS`
+### `02 // GOATED BUILDS`
 
 | PROJECT | TRANSMISSION |
 |:--|:--|
@@ -36,7 +36,7 @@ PHILOSOPHY   : Jack of all trades, master of none.
 | [Bayonette](https://github.com/PainQisGod/bayonette) | E-commerce-style web project |
 | [Paygone World Cup](https://github.com/PainQisGod/paygone-worldcup) | World Cup-themed project |
 
-### `03 // TECH TOOLKIT`
+### `03 // SHITS I USED`
 
 <p>
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
