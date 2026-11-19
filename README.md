@@ -30,9 +30,9 @@ Philosophy  : Jack of all trades, master of none.
 
 | PROJECT | DESCRIPTION |
 |:--|:--|
-| [Bayonette](https://github.com/PainQisGod/bayonette) | E-commerce-style web project |
-| [Jongrai](https://github.com/PainQisGod/jongrai) | ML:BB Project |
-| [Paygone World Cup](https://github.com/PainQisGod/paygone-worldcup) | World Cup-related project |
+| [Jongrai](https://github.com/PainQisGod/jongrai) | ML:BB Project (Ongoing) |
+| [Bayonette](https://github.com/PainQisGod/bayonette) | E-commerce-style web project (Ongoing) |
+| [Paygone World Cup](https://github.com/PainQisGod/paygone-worldcup) | World Cup-related project (Finished) |
 
 ### `03 // TECH I WORK WITH`
 
@@ -47,6 +47,6 @@ Philosophy  : Jack of all trades, master of none.
 ---
 
 <p align="center">
-  <samp>「 WAKE THE FUCK UP, SAMURAI. 」</samp><br />
-  <sub>Night City never sleeps. Neither does curiosity.</sub>
+  <samp>「 Wish we could go to the moon together. 」</samp><br />
+  <sub>Ah Poy</sub>
 </p>
