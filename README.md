@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/PainQisGod">
-    <img src="https://img.shields.io/badge/GITHUB-PainQisGod-FCEE0A?style=for-the-badge&logo=github&logoColor=101014" alt="GitHub: PainQisGod" />
+    <img src="https://img.shields.io/badge/GITHUB-PainQisGod-D33D2B?style=for-the-badge&logo=github&logoColor=101014" alt="GitHub: PainQisGod" />
   </a>
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge" alt="System online" />
-  <img src="https://img.shields.io/badge/HERO-HIRARA-FCEE0A?style=for-the-badge" alt="Hirara" />
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-D33D2B?style=for-the-badge" alt="System online" />
+  <img src="https://img.shields.io/badge/HERO-HIRARA-D33D2B?style=for-the-badge" alt="Hirara" />
 </p>
 
 ---
