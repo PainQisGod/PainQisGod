@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GITHUB-PainQisGod-FCEE0A?style=for-the-badge&logo=github&logoColor=101014" alt="GitHub: PainQisGod" />
   </a>
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge" alt="System online" />
-  <img src="https://img.shields.io/badge/DISTRICT-NIGHT_CITY-FCEE0A?style=for-the-badge" alt="Night City" />
+  <img src="https://img.shields.io/badge/HERO-HIRARA-FCEE0A?style=for-the-badge" alt="Hirara" />
 </p>
 
 ---
@@ -56,6 +56,6 @@ PHILOSOPHY   : Jack of all trades, master of none.
 ---
 
 <p align="center">
-  <samp>「 Wish we could go to the moon together 」</samp><br />
+  <samp>「 Twin fans. One crimson fate. 」</samp><br />
   <sub>SERK TOV AH POY</sub>
 </p>
