@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hirara-splash.jpg" alt="Hirara — Fallen Scarlet, Mobile Legends: Bang Bang" width="100%" />
+  <img src="assets/hirara.jpg" alt="Hirara — Fallen Scarlet, Mobile Legends: Bang Bang" width="100%" />
 </p>
 
 <h1 align="center">PAINQ // IS GOD</h1>
