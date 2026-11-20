@@ -58,11 +58,11 @@
     <animate attributeName="opacity" values=".35;.8;.35" dur="4s" repeatCount="indefinite"/>
   </rect>
   <g font-family="monospace">
-    <text x="54" y="65" fill="#fcee0a" font-size="13" letter-spacing="4">PAINQ CITY // THE GOAT</text>
+    <text x="54" y="65" fill="#fcee0a" font-size="13" letter-spacing="4">PAINQ CITY // SERK TOV AH POY</text>
     <text x="50" y="151" fill="#f4f6fb" font-family="Arial,sans-serif" font-size="66" font-weight="900" letter-spacing="2">PAINQ</text>
-    <text x="54" y="180" fill="#00e5ff" font-size="14" letter-spacing="3">SOFTWARE DEVELOPMENT · ISGOD</text>
+    <text x="54" y="180" fill="#00e5ff" font-size="14" letter-spacing="3">SOFTWARE DEVELOPMENT · POY POY GAMING</text>
     <path d="M52 198h360" stroke="#fcee0a" stroke-width="2"/>
     <text x="54" y="224" fill="#b6c4d8" font-size="12" letter-spacing="1">WISH WE COULD GO TO THE MOON TOGETHER.</text>
-    <text x="1145" y="366" fill="#fcee0a" font-size="10" text-anchor="end">2077 // PAINQ SYSTEME</text>
+    <text x="1145" y="366" fill="#fcee0a" font-size="10" text-anchor="end">2077 // PAINQISGOD SYSTEME</text>
   </g>
 </svg>
