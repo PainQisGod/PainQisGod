@@ -56,6 +56,5 @@ PHILOSOPHY   : Jack of all trades, master of none.
 ---
 
 <p align="center">
-  <samp>「 Twin fans. One crimson fate. 」</samp><br />
-  <sub>SERK TOV AH POY</sub>
+  <img src="assets/footer-autumn.svg" alt="Twin fans. One crimson fate. — SERK TOV AH POY" width="100%" />
 </p>
