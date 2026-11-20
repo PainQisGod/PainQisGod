@@ -18,7 +18,7 @@
 
 ---
 
-<img src="assets/section-01-about.svg" alt="01 // ABOUT ME" width="100%" />
+<img src="assets/section-01-about.svg" alt="01 | ABOUT ME" width="100%" />
 
 ```text
 HANDLE       : PainQ
@@ -28,7 +28,7 @@ CURRENTLY    : Learning, experimenting, and building projects
 PHILOSOPHY   : Jack of all trades, master of none.
 ```
 
-<img src="assets/section-02-builds.svg" alt="02 // GOATED BUILDS" width="100%" />
+<img src="assets/section-02-builds.svg" alt="02 | GOATED BUILDS" width="100%" />
 
 | PROJECT | TRANSMISSION |
 |:--|:--|
@@ -36,7 +36,7 @@ PHILOSOPHY   : Jack of all trades, master of none.
 | [Bayonette](https://github.com/PainQisGod/bayonette) | E-commerce-style web project |
 | [Paygone World Cup](https://github.com/PainQisGod/paygone-worldcup) | World Cup-themed project |
 
-<img src="assets/section-03-stack.svg" alt="03 // SHITS I USED" width="100%" />
+<img src="assets/section-03-stack.svg" alt="03 | SHITS I USED" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -49,7 +49,7 @@ PHILOSOPHY   : Jack of all trades, master of none.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-<img src="assets/section-04-signal.svg" alt="04 // GITHUB SIGNAL" width="100%" />
+<img src="assets/section-04-signal.svg" alt="04 | GITHUB STATS" width="100%" />
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=PainQisGod&show_icons=true&hide_border=true&bg_color=101014&title_color=D33D2B&text_color=C9D1D9&icon_color=D33D2B&ring_color=D33D2B" alt="PainQ's GitHub statistics" />
