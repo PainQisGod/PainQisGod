@@ -18,7 +18,7 @@
 
 ---
 
-### `01 // ABOUT ME`
+<img src="assets/section-01-about.svg" alt="01 // ABOUT ME" width="100%" />
 
 ```text
 HANDLE       : PainQ
@@ -28,7 +28,7 @@ CURRENTLY    : Learning, experimenting, and building projects
 PHILOSOPHY   : Jack of all trades, master of none.
 ```
 
-### `02 // GOATED BUILDS`
+<img src="assets/section-02-builds.svg" alt="02 // GOATED BUILDS" width="100%" />
 
 | PROJECT | TRANSMISSION |
 |:--|:--|
@@ -36,7 +36,7 @@ PHILOSOPHY   : Jack of all trades, master of none.
 | [Bayonette](https://github.com/PainQisGod/bayonette) | E-commerce-style web project |
 | [Paygone World Cup](https://github.com/PainQisGod/paygone-worldcup) | World Cup-themed project |
 
-### `03 // SHITS I USED`
+<img src="assets/section-03-stack.svg" alt="03 // SHITS I USED" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -46,7 +46,7 @@ PHILOSOPHY   : Jack of all trades, master of none.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=101014" alt="JavaScript" />
 </p>
 
-### `04 // GITHUB SIGNAL`
+<img src="assets/section-04-signal.svg" alt="04 // GITHUB SIGNAL" width="100%" />
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=PainQisGod&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FCEE0A&text_color=C9D1D9&icon_color=00E5FF&ring_color=FCEE0A" alt="PainQ's GitHub statistics" />
